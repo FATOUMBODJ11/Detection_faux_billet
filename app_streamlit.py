@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # URL de ton API FastAPI
-API_URL = "https://detection-faux-billet-3.onrender.com/docs#/default/predict_billet_csv"
+API_URL = "https://detection-faux-billet-3.onrender.com/predict_csv/"
 
 # ----------------------
 # EN-TÊTE
